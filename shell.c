@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-
+ㅇ
 #define MAX_LEN_LINE    100
 
 int main(void)
