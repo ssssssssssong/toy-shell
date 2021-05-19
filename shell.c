@@ -7,7 +7,7 @@
 #include <sys/wait.h>
 
 #define MAX_LEN_LINE    100
-ㄴㄴㄴ
+
 int main(void)
 {
     char command[MAX_LEN_LINE];
